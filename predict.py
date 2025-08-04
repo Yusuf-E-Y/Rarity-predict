@@ -5,13 +5,13 @@ from sklearn.cluster import KMeans
 import random
 
 #Function class
-def get_rarity_class(rarity):
+"""def get_rarity_class(rarity):
     if rarity < 30:
         return "Widely"
     elif rarity < 70:
         return "Mid"
     else:
-        return "Rare"
+        return "Rare"""" #better classification will come
     
 # Data
 data = pd.read_csv("Consoles.csv")
@@ -61,3 +61,4 @@ rarity_class = get_rarity_class(prediction[0])
 print(predictions)
 print("Rarity predict", average)
 print("Class: ",rarity_class)
+
