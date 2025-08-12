@@ -6,6 +6,7 @@ from sklearn.cluster import KMeans
 # Data
 data = pd.read_csv("Consoles.csv")
 
+#data cleaner
 df = data.iloc[:, 1:]
 # X and y
 X = df[['amount', 'age', 'user score']]
@@ -33,3 +34,4 @@ user_cluster = kmeans.predict(user_scaled)[0]
 
 print("Rarity predict:", prediction[0])
 print("User cluster:", user_cluster)
+
