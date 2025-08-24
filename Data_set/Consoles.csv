@@ -1,67 +1,67 @@
-Console,amount,age,user score,rarity
-PS5 slim,77000000,2,7.6,24
-Xbox series x,25000000,5,7.3,21
-Nintendo Switch,144000000,8,7.9,21
-PS4 slim,117000000,9,7.7,18
-Xbox one,58000000,12,6.5,17
-Nintendo Switch 2 ,5000000,1,8.0,17
-Psp street,60000000,14,7.0,27
-PlayStation Move controller,1000000,9,5.6,18
-Game Boy Micro,3000000,20,5.3,29
-Sega Genessis,31000000,37,7.8,61
-NES,61000000,39,8.3,38
-SNES,49000000,35,8.0,30
-Sega Saturn(Games Bundle),9000000,31,7.5,51
-PS1,100000000,31,8.0,27
-PS Vita,13000000,14,7.0,37
-Game Boy Tetris Bundle,35000000,36,8.5,79
-Sega CD Model,3000000,32,7.5,29
-Magnavox Odyssey 3000,330000,48,7.0,61
-Nintendo Game&Watch Fire,1000000,45,4.0,47
-Nintendo Virtual Boy,770000,30,7.4,55
-Game Gear,11000000,35,8.0,50
-Atari 2600,30000000,43,6.8,40
-TurboGrafx-16,10000000,34,7.2,45
-Neo Geo AES,800000,31,7.9,60
-Xbox 360,85000000,15,7.4,23
-PS3,87000000,14,7.6,25
-Wii,101000000,13,7.8,20
-GameCube,22000000,21,7.1,32
-Dreamcast,9200000,23,7.3,38
-Atari 5200,2000000,42,6.5,45  
-Commodore 64 Games,17000000,38,7.0,50  
-Vectrex,700000,39,6.8,55  
-Intellivision,3000000,42,6.4,48  
-TurboExpress,1000000,31,7.1,52  
-Neo Geo Pocket Color,1500000,23,7.3,49  
-Game Boy Color,118000000,24,7.5,30  
-Game Boy Advance,81500000,20,7.8,28  
-Nintendo DS,154000000,17,8.0,22  
-Nintendo 3DS,75000000,11,7.6,25  
-PlayStation Portable Go,3000000,13,6.7,40  
-PlayStation 2,155000000,22,8.1,18  
-Xbox One X,23000000,8,7.4,35  
-Xbox Series S,17000000,2,7.2,28  
-Wii U,13000000,8,6.8,38  
-Sega Master System,13000000,38,7.0,40  
-ColecoVision,700000,42,6.2,50  
-Odyssey 2,1200000,45,5.8,55  
-Magnavox Odyssey,2500000,50,6.0,60  
-Philips CD-i,900000,33,5.5,53 
-Bandai Pippin,42000,35,6.0,72
-Bandai rx-78,4000000,46,8.5,63
-Neo Geo CD,600000,31,8.5,57
-Casio PV-2000,5000,42,8.0,70
-Casio PV-1000,3000,42,8.0,74
-Apple Pippin,50000000,29,6.3,77
-Panasonic 3DO,2000000,31,7.0,66
-Amstrad GX4000,150000,34,5.2,72
-FM Towns Marty,45000,31,7.5,74
-Super A Can,10000,29,5.8,80
-SuperGrafx,7500,35,7.2,85
-Nintendo PlayStation,1,33,9.0,100
-Treamcast (modified DC),10000,24,6.5,83
-Atari Cosmos,1,44,7.0,98
-Game.com (Tiger),300000,26,4.5,82
-Playdia (Bandai),45000,30,5.8,86
-PlayStation 5 prototype,50,6,8.0,92
+Console,amount,age,user score,rarity,cluster
+PS5 slim,77000000,2,7.6,24,0               
+Xbox series x,25000000,5,7.3,21,0
+Nintendo Switch,144000000,8,7.9,21,0
+PS4 slim,117000000,9,7.7,18,0
+Xbox one,58000000,12,6.5,17,0
+Nintendo Switch 2 ,5000000,1,8.0,17,0
+Psp street,60000000,14,7.0,27,0
+PlayStation Move controller,1000000,9,5.6,18,0
+Game Boy Micro,3000000,20,5.3,29,1
+Sega Genessis,31000000,37,7.8,61,1
+NES,61000000,39,8.3,38,1
+SNES,49000000,35,8.0,30,1
+Sega Saturn(Games Bundle),9000000,31,7.5,51,1
+PS1,100000000,31,8.0,27,0
+PS Vita,13000000,14,7.0,37,1
+Game Boy Tetris Bundle,35000000,36,8.5,79,1
+Sega CD Model,3000000,32,7.5,29,0
+Magnavox Odyssey 3000,330000,48,7.0,61,1
+Nintendo Game&Watch Fire,1000000,45,4.0,47,1
+Nintendo Virtual Boy,770000,30,7.4,55,1
+Game Gear,11000000,35,8.0,50,1
+Atari 2600,30000000,43,6.8,40,1
+TurboGrafx-16,10000000,34,7.2,45,1
+Neo Geo AES,800000,31,7.9,60,1
+Xbox 360,85000000,15,7.4,23,1
+PS3,87000000,14,7.6,25,0
+Wii,101000000,13,7.8,20,0
+GameCube,22000000,21,7.1,32,1
+Dreamcast,9200000,23,7.3,38,1
+Atari 5200,2000000,42,6.5,45,1 
+Commodore 64 Games,17000000,38,7.0,50,1  
+Vectrex,700000,39,6.8,55,1
+Intellivision,3000000,42,6.4,48,1  
+TurboExpress,1000000,31,7.1,52,1
+Neo Geo Pocket Color,1500000,23,7.3,49,1  
+Game Boy Color,118000000,24,7.5,30,0
+Game Boy Advance,81500000,20,7.8,28,0 
+Nintendo DS,154000000,17,8.0,22,0
+Nintendo 3DS,75000000,11,7.6,25,0
+PlayStation Portable Go,3000000,13,6.7,40,1  
+PlayStation 2,155000000,22,8.1,18,0
+Xbox One X,23000000,8,7.4,35,1
+Xbox Series S,17000000,2,7.2,28,0  
+Wii U,13000000,8,6.8,38,1
+Sega Master System,13000000,38,7.0,40,1  
+ColecoVision,700000,42,6.2,50,1
+Odyssey 2,1200000,45,5.8,55,1
+Magnavox Odyssey,2500000,50,6.0,60,1  
+Philips CD-i,900000,33,5.5,53,1
+Bandai Pippin,42000,35,6.0,72,1
+Bandai rx-78,4000000,46,8.5,63,1
+Neo Geo CD,600000,31,8.5,57,1
+Casio PV-2000,5000,42,8.0,70,1
+Casio PV-1000,3000,42,8.0,74,1
+Apple Pippin,50000000,29,6.3,77,1
+Panasonic 3DO,2000000,31,7.0,66,1
+Amstrad GX4000,150000,34,5.2,72,1
+FM Towns Marty,45000,31,7.5,74,1
+Super A Can,10000,29,5.8,80,1
+SuperGrafx,7500,35,7.2,85,1
+Nintendo PlayStation,1,33,9.0,100,1
+Treamcast (modified DC),10000,24,6.5,83,1
+Atari Cosmos,1,44,7.0,98,1
+Game.com (Tiger),300000,26,4.5,82,1
+Playdia (Bandai),45000,30,5.8,86,1
+PlayStation 5 prototype,50,6,8.0,92,1
