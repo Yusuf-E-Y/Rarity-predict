@@ -1,2 +1,2 @@
 ### Kaggle link
-[Kaggle](http://kaggle.com/datasets/yusufefeyeil/game-console-rarity).
+[Consoles](http://kaggle.com/datasets/yusufefeyeil/game-console-rarity).
